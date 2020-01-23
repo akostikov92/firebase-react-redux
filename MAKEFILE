@@ -1,0 +1,5 @@
+# npx create-react-app envy
+
+# yarn
+
+# yarn add node-sass
