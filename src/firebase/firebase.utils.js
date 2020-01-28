@@ -6,14 +6,14 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-  apiKey: 'AIzaSyB1VmMiTXAC1VMHOa-V05DmGDrrcMhNE_Y',
-  authDomain: 'envy-b2569.firebaseapp.com',
-  databaseURL: 'https://envy-b2569.firebaseio.com',
-  projectId: 'envy-b2569',
-  storageBucket: 'envy-b2569.appspot.com',
-  messagingSenderId: '61385559833',
-  appId: '1:61385559833:web:37e644421e5473500fff88',
-  measurementId: 'G-D3YXP1CEKE'
+  apiKey: 'AIzaSyALneXTUrDDQAbie4AbQ6BWYpSW9W8Xtfk',
+  authDomain: 'timeless-db.firebaseapp.com',
+  databaseURL: 'https://timeless-db.firebaseio.com',
+  projectId: 'timeless-db',
+  storageBucket: 'timeless-db.appspot.com',
+  messagingSenderId: '186456107968',
+  appId: '1:186456107968:web:faca0a161c29d26dfaf625',
+  measurementId: 'G-EYGQXSTLG4'
 };
 
 export const createUserProfileDocument = async (userAuth, additionalData) => {
